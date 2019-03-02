@@ -1,0 +1,9 @@
+worlds["Mondo"] = "C:/Users/Cibelly/AppData/Roaming/.minecraft/saves/Mondo"
+
+renders["normalend"] = {
+    "world": "Mondo",
+    "title": "Normal End",
+    "dimension": "end",
+}
+
+outputdir = "C:/Users/Cibelly/Saved Games/Mapas"
